@@ -1,0 +1,26 @@
+[
+    {
+        "Address": "0x362219d2a3a5491100d673fc899dde507c5d5534",
+        "Symbol": "PTE",
+        "Name": "Play to Earn Online Magazine",
+        "Blockchain": "Ethereum",
+        "ContractType": "semi-fungible",
+        "Category": "Collectibles"
+    },
+    {
+        "Address": "0x121a03f7b2427cc5546f4c9bf6f2dd43a36b3d01",
+        "Symbol": "INPOKE",
+        "Name": "infectedpokémon",
+        "Blockchain": "Ethereum",
+        "ContractType": "semi-fungible",
+        "Category": "Collectibles"
+    },
+    {
+        "Address": "0x53aa007decca0469576bdf5f0385c3d0eaa33a9b",
+        "Symbol": "Fomo Toys",
+        "Name": "Fomo Toys",
+        "Blockchain": "Ethereum",
+        "ContractType": "semi-fungible",
+        "Category": "Collectibles"
+    }
+]
